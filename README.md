@@ -4,6 +4,7 @@
 # 💫 About Me:
 👋 Hey, I'm Tan  <br>CS undergrad | Data Science enthusiast | AI + Web Dev explorer  <br>  <br>🌐 Currently building smart systems (music player, campus automation)  <br>📊 Learning Data Science to bridge insights + impact  <br>🎬 Editing travel vlogs & sketching ideas in my downtime  <br>  
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/tannistha12?tab=repositories)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tannistha.08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tannistha-c-425a09231) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/tanni08chat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tannisthachat17@gmail.com) 
