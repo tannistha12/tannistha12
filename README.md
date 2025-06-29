@@ -1,6 +1,10 @@
 <div align-"center>
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+      
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+      
 </div>
+
+---
 
 <div align="center">
   
@@ -37,8 +41,8 @@
 ## 📈 GitHub Vibe Check
 <div align="center">
 
-![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tannistha12&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![Tan's GitHub Streak](https://streak-stats.demolab.com?user=tannistha12&theme=radical&hide_border=false)
+![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tannistha12&theme=radical&show_icons=true&hide_border=false&count_private=true)<br>
+![Tan's GitHub Streak](https://streak-stats.demolab.com?user=tannistha12&theme=radical&hide_border=false)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannistha12&layout=compact&theme=radical&hide_border=false)
 
 </div>
