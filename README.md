@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=250&section=header&text=Hey%20I'm%20Tan!%20👩‍💻&fontSize=40&fontColor=ffffff&desc=CS%20Undergrad%20|%20Data%20+%20AI%20Enthusiast%20|%20Web%20Explorer%20✨&descSize=20&descAlign=60&descAlignY=65" />
-
+<img src="https://i.pinimg.com/originals/8a/94/af/8a94afa9799f361fef70b538a304c5e5.gif" width="100%" />
 
 <div align="center">
   
