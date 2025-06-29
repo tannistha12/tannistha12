@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/286538933-3d75d6c4-2e5f-4b65-8b92-e8a68b96cd4b.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=250&section=header&text=Hey%20I'm%20Tan!%20👩‍💻&fontSize=40&fontColor=ffffff&desc=CS%20Undergrad%20|%20Data%20+%20AI%20Enthusiast%20|%20Web%20Explorer%20✨&descSize=20&descAlign=60&descAlignY=65" />
+
 
 <div align="center">
   
