@@ -1,31 +1,89 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb&height=200&section=header&text=Hey,%20I'm%20Tan!%20👩‍💻&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=CS%20Undergrad%20|%20Data%20Science%20Explorer%20|%20Web+AI%20Lover%20💫&descAlignY=60&descAlign=62"/>
 
-# 💫 About Me:
-👋 Hey, I'm Tan  <br>CS undergrad | Data Science enthusiast | AI + Web Dev explorer  <br>  <br>🌐 Currently building smart systems (music player, campus automation)  <br>📊 Learning Data Science to bridge insights + impact  <br>🎬 Editing travel vlogs & sketching ideas in my downtime  <br>  
+<div align="center">
+  
+📈 Learning Data Science to *transform insights into impact*  
+🎬 Editing travel vlogs 🎒 & sketching wild ideas in my downtime ✏️  
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/tannistha12?tab=repositories)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tannistha.08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tannistha-c-425a09231) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/tanni08chat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tannisthachat17@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tannistha12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tannistha12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tannistha12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tannistha12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tannistha12&limit=5&theme=merko&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tannistha12&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧩 Tech Stack & Tools
+> Languages | Frameworks | Design | Hardware
+
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Vibe Check
+<div align="center">
+
+![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tannistha12&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![Tan's GitHub Streak](https://streak-stats.demolab.com?user=tannistha12&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannistha12&layout=compact&theme=radical&hide_border=false)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tannistha12&theme=gruvbox&no-frame=false&row=2&column=4)](https://github.com/tannistha12)
+
+</div>
+
+---
+
+## 🌐 Let's Connect!
+> Slide into my DMs like an open PR 😎
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tannistha.08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tannistha-c-425a09231)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/tanni08chat/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tannisthachat17@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Featured Repo Contribution
+![Top Contributed](https://github-contributor-stats.vercel.app/api?username=tannistha12&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+---
+
+## 🌍 Visitor Counter
+![Visitor Count](https://visitcount.itsvg.in/api?id=tannistha12&label=Profile%20Visits&color=6a11cb&icon=5&pretty=true)
+
+---
+
+<details>
+<summary>📜 Fun Fact?</summary>
+  
+> I build things from caffeine & curiosity ☕💡  
+> Love aesthetic UIs and data that tells a story.  
+> Always dreaming about that next travel vlog or open-source PR.  
+  
+</details>
+
+<!-- README crafted with love 💙 by Tan -->
