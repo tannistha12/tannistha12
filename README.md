@@ -43,7 +43,7 @@
 
 ![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tannistha12&theme=radical&show_icons=true&hide_border=false&count_private=true)<br>
 ![Tan's GitHub Streak](https://streak-stats.demolab.com?user=tannistha12&theme=radical&hide_border=false)
-<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannistha12&layout=compact&theme=radical&hide_border=false)
 
 </div>
