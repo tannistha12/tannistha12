@@ -15,27 +15,6 @@
 
 ---
 
-## ✨ Personal Badges
-
-<div align="center">
-
-<!-- Vibe & Goals -->
-  
-![Role: CS Student](https://img.shields.io/badge/CS_Engineering-Student-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Now Building: Slice Clone](https://img.shields.io/badge/Now_Building-Slice%20Clone-purple?style=for-the-badge&logo=react&logoColor=white)
-![2025 Goal](https://img.shields.io/badge/2025_Goal-Research_Internship_Japan-red?style=for-the-badge&logo=target&logoColor=white)
-![Mood: Vibin’](https://img.shields.io/badge/Mood-Vibin%E2%80%99-yellow?style=for-the-badge&logo=spotify&logoColor=white)
-![Powered by Caffeine](https://img.shields.io/badge/Powered_By-Caffeine_&_Curiosity-FF7F50?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-
-<!-- Travel-Core Add-ons -->
-
-![🎥 Travel Vlogs](https://img.shields.io/badge/%F0%9F%8E%A5_Travel_Vlogs-Hinglish_Edits-FCA5F1?style=for-the-badge&logo=youtube&logoColor=white)
-![✈️ Next Stop](https://img.shields.io/badge/%E2%9C%88%EF%B8%8F_Next_Trip-Jaipur_PinkCity-FFB6C1?style=for-the-badge&logo=airbnb&logoColor=white)
-![🎒 Budget Babe](https://img.shields.io/badge/%F0%9F%8E%92-Budget_Queen-7ED6DF?style=for-the-badge)
-
-</div>
-
----
 
 ## 🧩 Tech Stack & Tools
 > Languages | Frameworks | Design | Hardware
@@ -65,7 +44,7 @@
 <div align="center">
 
 ![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tannistha12&theme=radical&show_icons=true&hide_border=false&count_private=true)  
-![Tan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tannistha12&theme=radical&hide_border=false)  
+![Tan's GitHub Streak](https://streak-stats.demolab.com?user=Tannistha12&theme=radical&hide_border=false) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tannistha12&layout=compact&theme=radical&hide_border=false)
 
 </div>
