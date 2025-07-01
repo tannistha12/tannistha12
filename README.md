@@ -80,7 +80,7 @@
 ---
 
 ## 🌍 Visitor Counter
-![Visitor Count](https://visitcount.itsvg.in/api?id=tannistha12&label=Profile%20Visits&color=6a11cb&icon=5&pretty=true)
+![Profile Views](https://img.shields.io/badge/Profile_Views-dynamic-blue?logo=github)
 
 ---
 
