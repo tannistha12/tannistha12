@@ -1,15 +1,37 @@
-<div align-"center>
-      
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
-      
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500"/>
+
 </div>
 
 ---
 
 <div align="center">
-  
+
 📈 Learning Data Science to *transform insights into impact*  
 🎬 Editing travel vlogs 🎒 & sketching wild ideas in my downtime ✏️  
+
+</div>
+
+---
+
+## ✨ Personal Badges
+
+<div align="center">
+
+<!-- Vibe & Goals -->
+  
+![Role: CS Student](https://img.shields.io/badge/CS_Engineering-Student-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Now Building: Slice Clone](https://img.shields.io/badge/Now_Building-Slice%20Clone-purple?style=for-the-badge&logo=react&logoColor=white)
+![2025 Goal](https://img.shields.io/badge/2025_Goal-Research_Internship_Japan-red?style=for-the-badge&logo=target&logoColor=white)
+![Mood: Vibin’](https://img.shields.io/badge/Mood-Vibin%E2%80%99-yellow?style=for-the-badge&logo=spotify&logoColor=white)
+![Powered by Caffeine](https://img.shields.io/badge/Powered_By-Caffeine_&_Curiosity-FF7F50?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+
+<!-- Travel-Core Add-ons -->
+
+![🎥 Travel Vlogs](https://img.shields.io/badge/%F0%9F%8E%A5_Travel_Vlogs-Hinglish_Edits-FCA5F1?style=for-the-badge&logo=youtube&logoColor=white)
+![✈️ Next Stop](https://img.shields.io/badge/%E2%9C%88%EF%B8%8F_Next_Trip-Jaipur_PinkCity-FFB6C1?style=for-the-badge&logo=airbnb&logoColor=white)
+![🎒 Budget Babe](https://img.shields.io/badge/%F0%9F%8E%92-Budget_Queen-7ED6DF?style=for-the-badge)
 
 </div>
 
@@ -19,7 +41,7 @@
 > Languages | Frameworks | Design | Hardware
 
 <div align="center">
-  
+
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -39,12 +61,12 @@
 ---
 
 ## 📈 GitHub Vibe Check
+
 <div align="center">
 
-![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tannistha12&theme=radical&show_icons=true&hide_border=false&count_private=true)<br>
-![Tan's GitHub Streak](https://streak-stats.demolab.com?user=tannistha12&theme=radical&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannistha12&layout=compact&theme=radical&hide_border=false)
+![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tannistha12&theme=radical&show_icons=true&hide_border=false&count_private=true)  
+![Tan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tannistha12&theme=radical&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tannistha12&layout=compact&theme=radical&hide_border=false)
 
 </div>
 
@@ -53,8 +75,18 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tannistha12&theme=gruvbox&no-frame=false&row=2&column=4)](https://github.com/tannistha12)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Tannistha12&theme=gruvbox&no-frame=false&row=2&column=4)](https://github.com/Tannistha12)
+
+</div>
+
+---
+
+## 🚀 Featured Repo Contribution
+
+<div align="center">
+
+![Top Contributed](https://github-contributor-stats.vercel.app/api?username=Tannistha12&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -74,23 +106,21 @@
 
 ---
 
-## 🚀 Featured Repo Contribution
-![Top Contributed](https://github-contributor-stats.vercel.app/api?username=tannistha12&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-
 ## 🌍 Visitor Counter
-![Profile Views](https://img.shields.io/badge/Profile_Views-dynamic-blue?logo=github)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tannistha12&label=Profile%20views&color=0e75b6&style=flat" alt="Tannistha12" />
+</p>
 
 ---
 
 <details>
 <summary>📜 Fun Fact?</summary>
-  
+
 > I build things from caffeine & curiosity ☕💡  
 > Love aesthetic UIs and data that tells a story.  
 > Always dreaming about that next travel vlog or open-source PR.  
-  
+
 </details>
 
 <!-- README crafted with love 💙 by Tan -->
