@@ -44,7 +44,7 @@
 <div align="center">
 
 ![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tannistha12&theme=radical&show_icons=true&hide_border=false&count_private=true) <br>
-<img src="https://your-vercel-url.vercel.app?user=Tannistha12&theme=radical" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tannistha12)](https://git.io/streak-stats) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tannistha12&layout=compact&theme=radical&hide_border=false)
 
 </div>
