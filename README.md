@@ -43,9 +43,14 @@
 
 <div align="center">
 
-![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tannistha12&theme=radical&show_icons=true&hide_border=false&count_private=true) <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tannistha12)](https://git.io/streak-stats) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tannistha12&layout=compact&theme=radical&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tannistha12&show_icons=true&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tannistha12&layout=compact&theme=radical&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tannistha12&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
 </div>
 
